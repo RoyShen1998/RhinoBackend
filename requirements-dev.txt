@@ -1,0 +1,3 @@
+# The Lambda itself has no dependencies beyond boto3, which the Lambda runtime provides.
+boto3>=1.35
+pytest>=8,<9
